@@ -1,0 +1,2 @@
+# hse21_H3K27me3_ZDNA_DeepZ_human
+hse minor Bioinformatics project Epigenomics
